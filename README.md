@@ -3,8 +3,8 @@ Kubernetes tutorials collection
 
 * Books
 
-[Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do), Kelsey Hightower The definitive book on Kubernetes. 
-[Building Microservices](http://shop.oreilly.com/product/0636920033158.do): Defining Fine-Grained Systems This is the book Kelsey reads before giving talks about microservices. 
+** [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do), Kelsey Hightower The definitive book on Kubernetes. 
+** [Building Microservices](http://shop.oreilly.com/product/0636920033158.do): Defining Fine-Grained Systems This is the book Kelsey reads before giving talks about microservices. 
 
 * Videos
 [The State of the Art in Microservices by Adrian Cockcroft](https://www.youtube.com/watch?v=pwpxq9-uw_0)
